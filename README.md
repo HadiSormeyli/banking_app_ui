@@ -1,16 +1,18 @@
 # banking_app_ui
 
-A new Flutter project.
+Stunning banking app ui with exclusive animations using motion package.<br/>
+<br/>
+📧 Email: mohammadhadisormeyli@gmail.com<br/>
+🌐 GitHub: https://github.com/HadiSormeyli/<br/>
+Feel free to reach out to me via email or connect with me. I'm always open to collaboration and networking opportunities!
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br/><br/>
+<p float="left">
+  <img src="https://github.com/HadiSormeyli/TaskHub/blob/master/screenshots/image1.png" width="150" />
+  <img src="https://github.com/HadiSormeyli/TaskHub/blob/master/screenshots/image2.png" width="150" />
+  <img src="https://github.com/HadiSormeyli/TaskHub/blob/master/screenshots/image4.png" width="150" />
+  <img src="https://github.com/HadiSormeyli/TaskHub/blob/master/screenshots/image6.png" width="150" />
+  <img src="https://github.com/HadiSormeyli/TaskHub/blob/master/screenshots/image7.png" width="150" />
+  <img src="https://github.com/HadiSormeyli/TaskHub/blob/master/screenshots/image8.png" width="150" />
+</p>
+<br/><br/>
