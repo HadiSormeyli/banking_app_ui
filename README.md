@@ -8,11 +8,10 @@ Feel free to reach out to me via email or connect with me. I'm always open to co
 
 <br/><br/>
 <p float="left">
-  <img src="https://github.com/HadiSormeyli/TaskHub/blob/master/screenshots/image1.png" width="150" />
-  <img src="https://github.com/HadiSormeyli/TaskHub/blob/master/screenshots/image2.png" width="150" />
-  <img src="https://github.com/HadiSormeyli/TaskHub/blob/master/screenshots/image4.png" width="150" />
-  <img src="https://github.com/HadiSormeyli/TaskHub/blob/master/screenshots/image6.png" width="150" />
-  <img src="https://github.com/HadiSormeyli/TaskHub/blob/master/screenshots/image7.png" width="150" />
-  <img src="https://github.com/HadiSormeyli/TaskHub/blob/master/screenshots/image8.png" width="150" />
+  <img src="https://github.com/HadiSormeyli/banking_app_ui/1692795685399.jpg" width="150" />
+  <img src="https://github.com/HadiSormeyli/banking_app_ui/1692795685396.jpg" width="150" />
+  <img src="https://github.com/HadiSormeyli/banking_app_ui/1692795685393.jpg" width="150" />
+  <img src="https://github.com/HadiSormeyli/banking_app_ui/1692795685390.jpg" width="150" />
+  <img src="https://github.com/HadiSormeyli/banking_app_ui/1692795685388.jpg" width="150" />
 </p>
 <br/><br/>
